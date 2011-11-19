@@ -1,0 +1,12 @@
+name: CraftRP
+version: 0.1
+description: CraftRP!
+author: se1by
+website: http://www.live-craft.net
+
+main: me.se1by.CraftRP.CraftRP
+
+commands:
+    crp:
+       description: General CraftRP stuff
+       usage: /<command>
